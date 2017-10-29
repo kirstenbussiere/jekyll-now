@@ -19,6 +19,6 @@ Text analysis is a technological tool that allows for information to be apprehen
 -Term frequency
 
 **Disciplinary Fears - Literary Studies**
-The implementation of new technologies into a field is often met with a certain amount of resistence. Text analysis brings forth anxieties surrounding the potential obsolescence of the human in the future of an academic field. 
+The implementation of new technologies into a field is often met with a certain amount of resistence. Text analysis brings forth anxieties surrounding the potential obsolescence of the human in the future of an academic field. Recent technological developments allow researchers to move beyond human ability to look at collections of text larger than would otherwise be possible. As with any paradigm shift, there is often a fear from within the field that changes will cause there to be a loss of disciplinary purity. 
 
 
