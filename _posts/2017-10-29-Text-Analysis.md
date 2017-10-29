@@ -6,7 +6,6 @@ title: Text Analysis - A Reflection
 ---
 ## Dealing with Disciplinary Distress
 
-![wordcloud.jpg]({{site.baseurl}}/_posts/wordcloud.jpg)
 
 **"text", (n)**
 
