@@ -6,6 +6,7 @@ title: Text Analysis - A Reflection
 ---
 ## Dealing with Disciplinary Distress
 
+![wordcloud.jpg]({{site.baseurl}}/_posts/wordcloud.jpg)
 
 **"text", (n)**
 "The wording of anything written or printed; the structure formed by the words in their order; the very words, phrases, and sentences as written." (OED)
