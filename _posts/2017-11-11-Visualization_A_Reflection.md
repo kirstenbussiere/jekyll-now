@@ -9,6 +9,7 @@ title: 'Visualization: A Reflection'
 
 
 **visualization, _n_**
+
 "The action or fact of visualizing; the power or process of forming a mental picture or vision of something not actually present to the sight; a picture thus formed."
 
 **What is Visualization:**
