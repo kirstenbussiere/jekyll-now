@@ -6,7 +6,6 @@ title: 'Visualization: A Reflection'
 ---
 ## Visualizing the Invisible
 
-![517047f380239.jpg]({{site.baseurl}}/_posts/517047f380239.jpg)
 
 
 **visualization, _n_**
