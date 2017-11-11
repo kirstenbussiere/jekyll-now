@@ -1,7 +1,13 @@
 ---
 published: false
+layout: post
+author: Kirsten Bussière
+title: 'Visualization: A Reflection'
 ---
 ## Visualizing the Invisible
+
+![517047f380239.jpg]({{site.baseurl}}/_posts/517047f380239.jpg)
+
 
 **visualization, _n_**
 "The action or fact of visualizing; the power or process of forming a mental picture or vision of something not actually present to the sight; a picture thus formed."
@@ -13,7 +19,9 @@ Visualisation builds from ancient traditions of mapping visual data as a means o
 **Types of Visualization:**
 
 - Static Visualizations - visualizations that move and cannot be manipulated
+
 - Dynamic Visualizations - short animations that show change over a specific variable
+
 - Interactive Visualizations - allow for the manipulation of graphic variables
 
 **Visualization and Literature:**
