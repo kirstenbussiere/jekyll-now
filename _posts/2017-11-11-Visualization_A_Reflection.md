@@ -36,6 +36,7 @@ Raw - An open source data visualization framework for making visual representati
 http://app.rawgraphs.io/
 
 **Links:**
+
 Bailey, Jefferson. 2014. ‘Speak to the Eyes: The History and Practice of Information Visualization’. http://www.jeffersonbailey.com/speak-to-the-eyes-the-history-and-practice-of-information-visualization/
 
 King, Linsday and Peter Leonard. 2017. ‘Robots Reading Vogue’ http://dh.library.yale.edu/projects/vogue/
