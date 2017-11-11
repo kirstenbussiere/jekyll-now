@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Kirsten Bussière
 title: 'Visualization: A Reflection'
@@ -64,6 +64,3 @@ Jessop, Martyn. “Digital visualization as a scholarly activity,” Literary an
 Price, Daniel et al., “Curating Digital Spaces, Making Visual Arguments: A Case Study in New Media Presentations of Ancient Objects,” DHQ 7.2 (2013), http://www.digitalhumanities.org/dhq/vol/7/2/index.html
 
 My annotations can be found here: https://hypothes.is/users/kirstenbussiere
-
-
-
