@@ -3,6 +3,9 @@ published: false
 ---
 ## Visualizing the Invisible
 
+**visualization, _n_**
+"The action or fact of visualizing; the power or process of forming a mental picture or vision of something not actually present to the sight; a picture thus formed."
+
 **What is Visualization:**
 
 Visualisation builds from ancient traditions of mapping visual data as a means of communication. Abstract data is transferred to a form of graphic variables that is visually represented. This work exposes information and patterns from large amounts of data that may not necessarily be visible to the researcher without the use of digital tools.
