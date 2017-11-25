@@ -13,7 +13,7 @@ According to CBC 13.7 per cent of Canadians live with a disability meaning that 
 
 But what does it mean to be accessible?
 
-
+Everyone has different needs in order to easily access content and people with disabilities often have specific requirements. When we are publishing content online, it is imperative that we are aware of the fact that people have needs we may not and do our best to accomodate. As a student with non-verbal learning disability, accessibility has long been on my radar as an important discussion to be having. 
  
  Universal Design:
  
