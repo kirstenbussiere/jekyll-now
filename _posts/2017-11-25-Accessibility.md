@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 author: Kirsten Bussière
+title: Accessibility and Design - A Reflection
 ---
 ## Digital Humanities is for Everyone
 
