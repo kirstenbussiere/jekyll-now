@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+author: Kirsten Bussière
 ---
 ## Digital Humanities is for Everyone
 
