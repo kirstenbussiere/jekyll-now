@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: Kirsten Bussière
-title: 'Visualization: A Reflection'
+title: Visualization - A Reflection
 ---
 ## Visualizing the Invisible
 
