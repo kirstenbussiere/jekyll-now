@@ -6,6 +6,8 @@ published: false
 **social media, _n_**
 "Websites and applications which enable users to create and share content or to participate in social networking."
 
+**Social Networks and Digital Humanities**
+Social media is already a part of many people's daily routine and it is thus being pulled into the world of academia. Many websites perform work in academic in terms of spreading news about projects, conferences, and engaging scholarly communities online, but to what extent should they be studied at an academic level?
 
 **Links**
 
