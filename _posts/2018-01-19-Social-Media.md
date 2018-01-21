@@ -1,9 +1,12 @@
 ---
-published: false
+published: true
+type: post
+title: Social Media - A Reflection
 ---
 ## Anti-Social Media
 
 **social media, _n_**
+
 "Websites and applications which enable users to create and share content or to participate in social networking."
 
 **Social Networks and Digital Humanities**
@@ -14,7 +17,7 @@ Beyond this though, Sarah Spangler poses this question: "How can scholars rethin
 
 **Big Brother is Watching You**
 
-Using social media we often sign a contract in order to access the website and use their services. Often we say that we have read the terms and conditions without actually having done so. Essentially, we are often signing away our right to privacy. Personalization allows for what we engage with 
+Using social media we often sign a contract in order to access the website and use their services. Often we say that we have read the terms and conditions without actually having done so. Essentially, we are often signing away our right to privacy. Personalization allows for what we engage with to categorize our identities into an algorithm in order to sell us things specific to our interests. The issue is though that our data is being sold to any number of organizations. 
 
 **Internet Propoganda**
 
