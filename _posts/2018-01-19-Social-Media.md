@@ -16,11 +16,29 @@ Sarah Spangler poses this question: "How can scholars rethink their own roles as
 
 **Internet Propoganda**
 
-The internet has always been a space of contention but more recently in the age of fake news it has been a site of propoganda. When perusing the internet it is important to think critically about what is real and what is not. Almost everything has a motive and it is thus imperative that media is analysed deeply rather than taken immediately as fact. Although many people immediately believe information that appeals to the values their already believe it is important that we continue to question everything rather than become complicit. 
+The internet has always been a space of contention but more recently in the age of fake news it has been a site of propoganda. When perusing the internet it is important to think critically about what is real and what is not. Almost everything has a motive and it is thus imperative that media is analysed deeply rather than taken immediately as fact. Although many people immediately believe information that appeals to the values their already believe it is important that we continue to question everything rather than become complicit. Below are some helpful hints from "10 ways to get started fighting internet propaganda" by Kris Shaffer.
 
-How do we spot propoganda?
+_How do we spot propoganda?_
+
 -Propaganda is manipulative and social, not reasoned and intellectual.
-Propaganda hides its source
+-Propaganda hides its source.
+-There is somebody guilty behind propoganda intending to manipulate those who are innocent.
+
+In order to resist propoganda we must collaborate - the true DH motive. 
+
+_How do we resist propoganda?_
+
+-Fact check.
+-Don't share.
+-Follow the right people.
+-Be skeptical of the right things.
+-Don't duplicate work.
+-Learn a few good application programming interfaces.
+-Get comfortable with web scraping.
+-Compare multiple networks.
+-Don't dox.
+
+
 
 **Links**
 
