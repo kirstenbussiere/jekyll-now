@@ -7,9 +7,20 @@ published: false
 "Websites and applications which enable users to create and share content or to participate in social networking."
 
 **Social Networks and Digital Humanities**
+
 Social media is already a part of many people's daily routine and it is thus being pulled into the world of academia. Many websites perform work in academic in terms of spreading news about projects, conferences, and engaging scholarly communities online, but to what extent should they be studied at an academic level? As a major part of many contemporary cultures, I feel that it too should become a space of analysis.  
 
-Sarah Spangler poses this question: "How can scholars rethink their own roles as academics in digital spaces in order to become more involved with activist movements?". It brings me back to the concept of the citizen scholar - in which we are tied as humans to both the needs of the academy but also the community at large. Moreover, the social problems faced by minority groups are not limited to the world outside academia. In order to combat the problems within the academy we must also pay attention to the world at large - a move toward scholarly activism. But this must be done with an air of caution - Robin Boylorn points out that "scholars have particular privileges and platforms that can be used to help forward movements, including social media activist movements, but it is important to understand that not everything needs to be theorized". In a sense, sometimes the scholars place is in the struggle. 
+
+
+Sarah Spangler poses this question: "How can scholars rethink their own roles as academics in digital spaces in order to become more involved with activist movements?". It brings me back to the concept of the citizen scholar - in which we are tied as humans to both the needs of the academy but also the community at large. Moreover, the social problems faced by minority groups are not limited to the world outside academia. In order to combat the problems within the academy we must also pay attention to the world at large - a move toward scholarly activism. But this must be done with an air of caution - Robin Boylorn points out that "scholars have particular privileges and platforms that can be used to help forward movements, including social media activist movements, but it is important to understand that not everything needs to be theorized". In a sense, sometimes the scholar's place is in the struggle. 
+
+**Internet Propoganda**
+
+The internet has always been a space of contention but more recently in the age of fake news it has been a site of propoganda. When perusing the internet it is important to think critically about what is real and what is not. Almost everything has a motive and it is thus imperative that media is analysed deeply rather than taken immediately as fact. Although many people immediately believe information that appeals to the values their already believe it is important that we continue to question everything rather than become complicit. 
+
+How do we spot propoganda?
+-Propaganda is manipulative and social, not reasoned and intellectual.
+Propaganda hides its source
 
 **Links**
 
