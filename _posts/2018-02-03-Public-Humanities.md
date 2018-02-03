@@ -11,9 +11,11 @@ Publishing Publically
 
 While publishing in the open allows for knowledge to be more accessible there are a number of possible risks.Scholars are more likely to recieve criticism when they are allowing their work to open to the public - especially when working on controversial issues.For instance, in Sarah E. Bond's article ‘Why We Need to Start Seeing the Classical World in Color’ she points to a link between the perception of the white marble statues of antiqity and white supremecist ideals. And yet, many of these statues were in fact once painted - something many people are not aware of. Because misinformation feeds groups like white supremacists, it so important for factual information and scholarly research to be available openly. But Bond's research, published openly, actually opened her to hatred and trolling unlike anything she had previously experienced. 
 
-Although there are risks associated with work that is being done publically - I think often the benefits to society are important enough to continue making research open access. Providing people with access to knowledge allows for academic work to be moved out of the hands of the elite and into the realm of the public. 
+Although I think often the benefits to society are important enough to continue making research open access, it may not be the case for everyone. As such, it is important to note that these risks associated with publishing openly are especially prevalent in the work of women and individuals of colour.  Providing people with access to knowledge allows for academic work to be moved out of the hands of the elite and into the realm of the public. 
 
-Without access to knowledge is it possible to ever be a truly democratic society? 
+_Without access to knowledge is it possible to ever be a truly democratic society?_
+
+There has been a call to academics to continue to do more public work - a form of labour without a set value. Living in a capitalist society, to perform paid work for free blurs the value of academic work. 
 
 Links
 Bond, Sarah. ‘The argument made by the absence: On Whiteness, Polychromy, and Diversity in Classics’ https://sarahemilybond.com/2017/04/30/the-argument-made-by-the-absence-on-whiteness-polychromy-and-diversity-in-classics/
