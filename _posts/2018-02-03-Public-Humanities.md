@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Public Humanities - A Reflection
 ---
 ## In the Open 
 
@@ -16,6 +17,31 @@ Open access publishing brings research into the public - allowing those who woul
 Providing people with access to knowledge allows for academic work to be moved out of the hands of the elite and into the realm of the public. Although I think often the benefits to society are important enough to try to continue making research open access, it may not be the case for everyone. As such, it is important to note that these risks associated with publishing openly are especially prevalent in the work of women and individuals of colour. Tressie McMillan Cottom notes that "as a public writer, academic and black woman"  her "location at the bottom of a racist, sexist social hierarchy mitigates the presumed returns on academic public engagement". 
 
 There has been a call to academics to continue to do more public work - a form of labour without a set value. Living in a capitalist society, to perform paid work for free blurs the value of academic work. The university as corporation determines what research is valuable and who they want to represent their institution. And with the amount of risks to some individuals in academia, not only is it an abuse of power that prevent some people from getting paid for their work, it also has the potential to be quite dangerous. While there are good intentions often behind public publication, it has the potential to be used and abused. 
+
+**How to Spot a Bot**
+
+- The sleepless account - No breaks in activity when a human might sleep.
+
+- The retweetbot - Looks for specific keywords in tweets and retweets it.
+
+- The reply bot - Replies to certain users or keywords with an automated message.
+
+-Stolen content - Steals content from other users, often to spread malware or collect user data.
+
+-Tell-tale account names - Uses variations on celebrity names or names that link to downloads.
+
+-Recent accounts - Accounts created recently with many followers right away.
+
+-Activity gaps or filler content - Between campaigns shows gaps in activity or filler content.
+
+-Coordination - Bots working in coordination with each other doing things at the same time.
+
+-Semantic similarity - Identical or very similar text in the content produced on accounts.
+
+-Metadata similarities - Similarities between account metadata.
+
+
+
 
 **Links**
 [Bond, Sarah. ‘The argument made by the absence: On Whiteness, Polychromy, and Diversity in Classics’](https://sarahemilybond.com/2017/04/30/the-argument-made-by-the-absence-on-whiteness-polychromy-and-diversity-in-classics/)
