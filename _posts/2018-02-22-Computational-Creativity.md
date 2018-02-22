@@ -26,3 +26,24 @@ The use of the photograph in archeology has long been used to capture still imag
 -Photobashing: a less commonly used method to capture a mechanical process through a subjective lens
 
 This belief in the mirroring aspects of photography is what allows it to be such a convincing fallacy in which we see brief scenes as though they are a factual illustration of everyday life. Photography is often considered to be one of the most accurate representations of the past and yet all images are syphoned through multiple levels of mediation that affect accuracy. The image is a cropped version of reality that removes everything extending past the frame of the photograph. And so, the past is made incomplete through the limitations of photography and opened to the interpretation of the viewers who are essentially just outsiders looking in. So while photobashing is often seen as impacting the validity of archeological photographs it is important to note that we should not always view images as entire visions of the truth. Creative ways of rehashing these images allows new perspectives.
+
+**Links**
+Copplestone, Tara. 2015 Making things: Photobashing as Archaeological Remediation? http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/
+
+Compton, Kate. ‘Generominos’ http://www.galaxykate.com/generominos/
+
+Compton, Kate. 2015. ‘Tracery: An Author-Focused Generative Text Tool’ International Conference on Interactive Digital Storytelling https://link.springer.com/chapter/10.1007/978-3-319-27036-4_14 see also Tracery.io
+
+Compton, Kate. 2014 ‘The Casual Creator’ http://www.casualcreator.com/blog/
+
+The Heritage Jame http://www.heritagejam.org/
+
+McCall, Jeremiah. 2016. ‘Twine, Inform, and Designing Interactive History Texts’ Play the Past http://www.playthepast.org/?p=5739
+
+Issue 44. Digital Creativity in Archaeology Internet Archaeology http://intarch.ac.uk/journal/issue44/
+
+Phillips, Amanda Feminism and procedural content generation: toward a collaborative politics of computational creativity http://dx.doi.org/10.1080/14626268.2016.1147469
+
+Procjam https://itch.io/jam/procjam
+
+
