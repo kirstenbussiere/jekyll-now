@@ -16,7 +16,7 @@ Humans define themselves as a species as inventors. We may not be the fastest or
 
 We create what we need. We create what we want. We create.
 
-There are those who work professionally in creative fields but also many who create as hobby. These are what Compton calls casual creators/ 
+There are those who work professionally in creative fields but also many who create as hobby. These are what Compton calls casual creators. There is a whole market geared entirely toward these people who create just for fun. 
 
 **Archeology and Photographs**
 
