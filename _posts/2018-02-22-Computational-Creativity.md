@@ -30,7 +30,7 @@ This belief in the mirroring aspects of photography is what allows it to be such
 
 **Interactive Fictions**
 
-There are more tools on the market that change the way that we read and write new stories. The stories are becoming more interactive and collaboratively built. There are more ways of generating text through online tools. These tools, such as Twine, are also being drawn into the academic sphere. McCall describes the way that interactive text is being used as a tool for students studying history - there is an influx of historical simulation games.
+There are more tools on the market that change the way that we read and write new stories. The stories are becoming more interactive and collaboratively built. There are more ways of generating text through online tools. These tools, such as Twine, are also being drawn into the academic sphere. McCall describes the way that interactive text is being used as a tool for students studying history - there is an influx of historical simulation games. Providing students with the opportunity to create these games enables them to gain related skills
 
 
 **Links**
