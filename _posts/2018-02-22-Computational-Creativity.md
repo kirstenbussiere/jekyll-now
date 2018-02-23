@@ -52,7 +52,7 @@ There are more tools on the market that change the way that we read and write ne
 
 - [Compton, Kate. 2014 ‘The Casual Creator’](http://www.casualcreator.com/blog/) 
 
-- http://www.heritagejam.org/[The Heritage Jam](http://www.heritagejam.org/)
+- [The Heritage Jam](http://www.heritagejam.org/)
 
 - [McCall, Jeremiah. 2016. ‘Twine, Inform, and Designing Interactive History Texts’ Play the Past](http://www.playthepast.org/?p=5739)
 
