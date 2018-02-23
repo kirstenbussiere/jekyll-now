@@ -18,6 +18,7 @@ We create what we need. We create what we want. We create.
 
 There are those who work professionally in creative fields but also many who create as hobby. These are what Compton calls casual creators. There is a whole market geared entirely toward these people who create just for fun. 
 
+
 **Archeology and Photographs**
 
 The use of the photograph in archeology has long been used to capture still images of acheological Photography as an art form often leads viewers to believe that it is a truthful representation of reality - that it objective.Copplestone point out that in the field of archeology conventional uses of photography often go unquestioned while artistic processes have been both celebrated and problematized. And yet there have been a number of creative tools commonly made use of within the discipline of archeology, including:
@@ -29,7 +30,7 @@ This belief in the mirroring aspects of photography is what allows it to be such
 
 **Interactive Fictions**
 
-There are more tools on the market that change the way that we read and write new stories. The stories are becoming more interactive and collaboratively built. There are more ways of generating text through online tools. 
+There are more tools on the market that change the way that we read and write new stories. The stories are becoming more interactive and collaboratively built. There are more ways of generating text through online tools. These tools, such as Twine, are also being drawn into the academic sphere. McCall describes the way that interactive text is being used as a tool for students studying history - there is an influx of historical simulation games.
 
 
 **Links**
