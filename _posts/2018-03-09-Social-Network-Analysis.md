@@ -1,7 +1,10 @@
 ---
 published: false
 ---
-## Netlytic Workshop at the University of Ottawa
+## Netlytic Workshop at the University of Ottawa with Elizabeth Dubois
+
+**Workshoop Details:**
+This workshop introduced participants to the free online tool Netlytic. We reviewed how to set up data collection from various social media sites and collect a small Twitter dataset. Next we reviewed the fundamentals of online social network analysis using Netlytic.
 
 ### Basics of Social Network Analysis - Online and Offline
 
@@ -45,6 +48,6 @@ API: A backdoor to the network which researchers can use to pull data.
 Streaming: Opens a door to Twitter and says push through the tweets as they happen.
 Search API: Check in every 15 minutes to allow you to push the data through.
 
+[An example of Netlytic analysis by Elizabeth Dubois.](https://medium.com/@lizdubois/the-canadian-open-dialogue-community-codf16-77edf0c35c9d)
 
-Http://medium.com/@lizdubois/the-canadian-open-dialogue-community-codf16-77edf0c35c9d
 
