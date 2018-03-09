@@ -1,0 +1,21 @@
+---
+published: false
+---
+## Netlytic Workshop at the University of Ottawa
+
+## Basics of Social Network Analysis - Online and Offline
+
+_What is Social Network Analysis?_
+Social network analysis helps us figure out relationships between people through their relationships online which helps us link people's relationships online. People have different ways in which their interactions can be mapped - pointing to what can be learned from their attributes. We are interested in the flow of information and the relationship between different nodes. General idea is to mathematically map out social relationships to determine what the influence is. There are small communities within network graphs 
+
+_Definitions:_
+Node: An individual or user
+Edges:The link between individuals - mentions, retweets, likes, etc. 
+Cascade: When one piece of information flows through a network.
+In Degree: How many people engage with it.
+Out Degree: How many people does it engage with.
+Total Degree: All engagement.
+Clusters: Where nodes are grouped together.
+Centrality: 
+Betweeness Centality: Connection between different groups.
+Weak Ties: People you are connected to but do not know well. Weak ties are very important because they connect us with different communities.
