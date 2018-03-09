@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+type: post
+title: Network Analysis with Netlytic
 ---
 ## Netlytic Workshop at the University of Ottawa with Elizabeth Dubois
 
