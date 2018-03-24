@@ -43,33 +43,37 @@ Dougherty, Jack, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke. 2012. �
 
 [Eve, Martin. 2012. ‘Starting and open access journal, a step by step guide, part 1’](https://www.martineve.com/2012/07/10/starting-an-open-access-journal-a-step-by-step-guide-part-1/) 
 
-Fitzpatrick, Kathleen. 2009 Planned Obsolescence 
+[Fitzpatrick, Kathleen. 2009 Planned Obsolescence](http://mcpress.media-commons.org/plannedobsolescence/)
 
-Liang, Hong-Ming. 2013 ‘Opening the Journal: How an Open-Access E-Journal Can Serve Scholarship, the Liberal Arts, and the Community’ Perspectives https://www.historians.org/publications-and-directories/perspectives-on-history/may-2013/opening-the-journal
+[Liang, Hong-Ming. 2013 ‘Opening the Journal: How an Open-Access E-Journal Can Serve Scholarship, the Liberal Arts, and the Community’ Perspectives]( https://www.historians.org/publications-and-directories/perspectives-on-history/may-2013/opening-the-journal)
 
-Rohrbach, Augusta. ‘Authorship’ Digital Pedagogy in the Humanities https://digitalpedagogy.mla.hcommons.org/keywords/authorship/
+[Rohrbach, Augusta. ‘Authorship’ Digital Pedagogy in the Humanities](https://digitalpedagogy.mla.hcommons.org/keywords/authorship/) 
 
-Some Publishers:
-Lever Press https://www.leverpress.org/
+**Some Publishers:**
 
-Open Book Publishers https://www.openbookpublishers.com/
+[Lever Press](https://www.leverpress.org/)
 
-Open Library of the Humanities https://www.openlibhums.org/
+[Open Book Publishers](https://www.openbookpublishers.com/) 
 
-Punctum Books https://punctumbooks.com/
+[Open Library of the Humanities](https://www.openlibhums.org/)
 
-Platforms you may wish to explore:
-Bookdown
+[Punctum Books](https://punctumbooks.com/) 
 
-Hugo with docdock theme
+**Platforms you may wish to explore:**
 
-Mkdocs
+[Bookdown](https://bookdown.org/home/)
 
-Omeka
+[Hugo with docdock theme](http://docdock.netlify.com/)
 
-Pressbooks
+[Mkdocs](http://www.mkdocs.org/)
 
-CommentPress
+[Omeka](http://omeka.org/)
 
-Cover Image Hannes Wolf, Unsplash
+[Pressbooks](https://pressbooks.com/)
+
+[CommentPress](https://wordpress.org/plugins/commentpress-core/)
+
+Read my annotations[here.](https://hypothes.is/groups/9ZoPkNzN/dhcu?q=user%3Akirstenbussiere)
+
+
 
