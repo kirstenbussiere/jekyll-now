@@ -4,7 +4,12 @@ published: false
 ## Open Source Platforms
 
 **Publishing, _n_**
+
 " The action or business of preparing and issuing books, newspapers, etc., for public sale or distribution; an instance of this." 
+
+**Transitioning Online**
+
+The increased use and access to online platforms over the last few decades has brought a large amount of scholarship online. And while the internet have the potential to make academic work more accessible, this is only true if everyone has the same access to the internet in the first place.
 
 **Open Textbooks**
 
