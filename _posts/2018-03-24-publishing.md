@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+type: post
+title: Publishing - A Reflection
 ---
 ## Open Source Platforms
 
