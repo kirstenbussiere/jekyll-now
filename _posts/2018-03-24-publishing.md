@@ -9,7 +9,7 @@ published: false
 
 **Transitioning Online**
 
-The increased use and access to online platforms over the last few decades has brought a large amount of scholarship online. And while the internet have the potential to make academic work more accessible, this is only true if everyone has the same access to the internet in the first place.
+The increased use and access to online platforms over the last few decades has brought a large amount of scholarship online. And while the internet have the potential to make academic work more accessible, this is only true if everyone has the same access to the internet in the first place. The online platform allows editors, authors, and publishers new ways of gaining access pertaining to their audience's reception of the text, while also allowing these participants new means of engaging with each other and discussing what they have read.
 
 **Open Textbooks**
 
