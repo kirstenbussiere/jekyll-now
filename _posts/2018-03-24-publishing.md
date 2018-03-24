@@ -41,7 +41,7 @@ In allowing information to be more accessible, I believe that we can have a more
 
 [Aesoph, Lauri and Amanda Coolidge. 2014. BC Open Textbook Authoring Guide: A Guide to Authoring & Adapting Open Textbooks BC Campus](https://opentextbc.ca/opentextbook/part/main-body/)
 
-Dougherty, Jack, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke. 2012. ‘Conclusions: What [We Learned from Writing History in the Digital Age (Spring 2012)’](https://writinghistory.trincoll.edu/conclusions-2012-spring/)
+[Dougherty, Jack, Kristen Nawrotzki, Charlotte Rochez, and Timothy Burke. 2012. ‘Conclusions: What [We Learned from Writing History in the Digital Age (Spring 2012)’]]((https://writinghistory.trincoll.edu/conclusions-2012-spring/))
 
 [Eve, Martin. 2012. ‘Starting and open access journal, a step by step guide, part 1’](https://www.martineve.com/2012/07/10/starting-an-open-access-journal-a-step-by-step-guide-part-1/) 
 
